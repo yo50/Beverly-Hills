@@ -1,6 +1,7 @@
 # Beverly-Hills
+
 #### Tracklist
- 
+
 ### 1. Beverly Hills
 ### 2%. Black Beauty
 ### 3. Black Girl Pretty Face
@@ -14,4 +15,4 @@
 ### 11. Billie
 ### 12. Hows That
 
-##### Release in 2019
+##### Release 2019
