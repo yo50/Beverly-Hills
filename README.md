@@ -1,4 +1,5 @@
-![Beverly Hills Album Artwork]()
+![Beverly Hills Album Artwork](https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/26/9e/f3/269ef360-70f3-78db-c36e-b6fb88d38027/source/200x200bb.jpg)
+
 
 # Beverly-Hills
 
