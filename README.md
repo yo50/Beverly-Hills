@@ -1,4 +1,4 @@
-![Beverly Hills Album Artwork](https://s3.amazonaws.com/gather.fandalism.com/800x800%2D798324%2D%2D3184DBDA%2D8A99%2D4D8A%2D8BADBCACF4C685CA%2D%2D1549630179113%2D%2DBeverlyHills%2E.jpg)
+![Beverly Hills Album Artwork](https://s3.amazonaws.com/gather.fandalism.com/800x800-798324--3184DBDA-8A99-4D8A-8BADBCACF4C685CA--1549630179113--BeverlyHills.jpg)
 
 
 # Beverly-Hills
