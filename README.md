@@ -1,4 +1,4 @@
-![Beverly Hills Album Artwork](https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/26/9e/f3/269ef360-70f3-78db-c36e-b6fb88d38027/source/200x200bb.jpg)
+![Beverly Hills Album Artwork](https://s3.amazonaws.com/gather.fandalism.com/800x800%2D798324%2D%2D3184DBDA%2D8A99%2D4D8A%2D8BADBCACF4C685CA%2D%2D1549630179113%2D%2DBeverlyHills%2Ejpg)
 
 
 # Beverly-Hills
